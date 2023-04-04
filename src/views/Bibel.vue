@@ -51,7 +51,7 @@
 		<span></span>
 		<span></span>
 	</div>
-	<div id="content" class="relative p-4 max-w-2xl mx-auto">
+	<div id="content" class="relative p-4 max-w-2xl min-ml-xs pl-16 mx-auto">
 		<h1 class="text-white text-5xl text-center">Bibel</h1>
 		<h2 class="text-yellow-300 text-2xl">Mais</h2>
 		<p class="text-white text-lg">Jeder nicht von Zugetti-Mensch liebt Mais, Mais ist die Gottheit und das heiligste existierende Wesen.</p>

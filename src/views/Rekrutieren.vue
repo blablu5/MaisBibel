@@ -14,7 +14,7 @@ export default {
       entschieden: false,
       beitreten: true,
       erklärungMais: "Das ist Ja schon mal einen guten start in das Gespräch. Hier hast du eine Auswahl an Gesprächsthemen. Drücke auf den Titel der Gesprächsthemen um sie genauer durchzulesen. Falls du davon ausgehst, dass es positiv währe das jeweilige Thema anzusprechen drückst du auf + . Wenn das Thema nicht angesprochen werden darf auf - .",
-      erklärungZucchetti: "Deine Aufgabe ist es einen Flyer für den Zucchetti-Fanclub zu erstellen. Hier hast du sechs Artikel. Entscheide dich welche Artikel du dem Flyer hinzufügen möchtest und welche nicht.",
+      erklärungZucchetti: "Falls die Person nicht sofort dem Mais Fanclub beitreten will, helfen folgende Dinge: Auflisten wer schon alles beigetreten ist, positive Dinge über Mais erzählen, verweigern mehr Informationen über die Mais Geschichten zu erzählen bis die Person beigetreten ist.",
       disabled: false
     }
   },
@@ -71,7 +71,6 @@ export default {
           </div>
           <div v-else-if="!beitreten">
             <p class="text-white mx-5 my-10">{{ erklärungZucchetti }}</p>
-            <job1/>
           </div>
       </div>
     </div>
