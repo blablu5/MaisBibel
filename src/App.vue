@@ -1,10 +1,10 @@
 <template>
-	<div class="app">
+	<div class="app h-full">
 		<!-- Sidebar -->
-		<Sidebar />
+		<Sidebar class="z-10"/>
 
 		<!-- Content -->
-		<router-view />
+		<router-view class="ml-16 h-full relative"/>
 	</div>
 </template>
 
@@ -19,7 +19,7 @@ import Sidebar from './components/Sidebar.vue'
 	--dark: #000;
 	--dark-alt: #365314;
 	--light: #ffffff;
-	--sidebar-width: 300px;
+	--sidebar-width: 200px;
 }
 * {
 	margin: 0;
@@ -28,7 +28,8 @@ import Sidebar from './components/Sidebar.vue'
 	font-family: 'Fira sans', sans-serif;
 }
 body {
-	background: var(--light);
+	background: var(--dark);
+	height: 100%;
 }
 button {
 	cursor: pointer;
@@ -37,11 +38,7 @@ button {
 	outline: none;
 	background: none;
 }
-.app {
-	display: flex;
-	main {
-		flex: 1 1 0;
-		position: relative;
-	}
+html {
+	height: 100%;
 }
 </style>

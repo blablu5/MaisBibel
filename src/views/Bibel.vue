@@ -1,76 +1,74 @@
 <template>
-	<main id="home-page">
-		<div id="content" class="p-4 max-w-2xl mx-auto">
-			<h1 class="text-white text-5xl text-center">Bibel</h1>
-			<h2 class="text-yellow-300 text-2xl">Mais</h2>
-			<p class="text-white text-lg">Jeder nicht von Zugetti-Mensch liebt Mais, Mais ist die Gottheit und das heiligste existierende Wesen.</p>
-			<h2 class="text-yellow-300 text-2xl">Entstehung des Universums</h2>
-			<p class="text-white text-lg">
-			Am Anfang war primärer Mais, der prim&auml;re Mais erschuf den sekund&auml;ren Mais. Man kennt den sekund&auml;ren Mais auf der Erde auch unter dem Namen "Atom". <br></p>
-			<h2 class="text-yellow-300 text-2xl">Entdeckung des Mais-Fanclubs</h2>
-			<p class="text-white text-lg">Jesus brachte uns dieser Fanclub, mit einem heiligen Maissalat auf die Erde.<br>
-			Dieser begehrte Maissalat bestand aus:<br>
-			1. Maisdose mit Maissaft<br>
-			2. Natur Joghurt <br>
-			3. Einer priese Salz, Pfeffer, Knoblauchpulver</p>
-			<h2 class="text-yellow-300 text-2xl">Böses</h2>
-			<p class="text-white text-lg">Zugetti</p>
-			<h2 class="text-yellow-300 text-2xl">Warum Zugetti</h2>
-			<p class="text-white text-lg">Mais Amen.</p>
-		</div>
-		<div class="background">
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-			</div>
-	</main>
+	<div class="background">
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+	</div>
+	<div id="content" class="relative p-4 max-w-2xl mx-auto">
+		<h1 class="text-white text-5xl text-center">Bibel</h1>
+		<h2 class="text-yellow-300 text-2xl">Mais</h2>
+		<p class="text-white text-lg">Jeder nicht von Zugetti-Mensch liebt Mais, Mais ist die Gottheit und das heiligste existierende Wesen.</p>
+		<h2 class="text-yellow-300 text-2xl">Entstehung des Universums</h2>
+		<p class="text-white text-lg">
+		Am Anfang war primärer Mais, der prim&auml;re Mais erschuf den sekund&auml;ren Mais. Man kennt den sekund&auml;ren Mais auf der Erde auch unter dem Namen "Atom". <br></p>
+		<h2 class="text-yellow-300 text-2xl">Entdeckung des Mais-Fanclubs</h2>
+		<p class="text-white text-lg">Jesus brachte uns dieser Fanclub, mit einem heiligen Maissalat auf die Erde.<br>
+		Dieser begehrte Maissalat bestand aus:<br>
+		1. Maisdose mit Maissaft<br>
+		2. Natur Joghurt <br>
+		3. Einer priese Salz, Pfeffer, Knoblauchpulver</p>
+		<h2 class="text-yellow-300 text-2xl">Böses</h2>
+		<p class="text-white text-lg">Zugetti</p>
+		<h2 class="text-yellow-300 text-2xl">Warum Zugetti</h2>
+		<p class="text-white text-lg">Mais Amen.</p>
+	</div>
 </template>
 <style scoped>
 	@keyframes move {
@@ -78,11 +76,8 @@
 			transform: translate3d(0, 0, 1px) rotate(360deg);
 		}
 	}
-	#content {
-		z-index: 1;
-		position: relative;
-	}
 	.background {
+		z-index: -1;
 		position: absolute;
 		width: 100%;
 		height: 100%;
