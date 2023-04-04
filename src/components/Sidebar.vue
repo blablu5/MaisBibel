@@ -24,7 +24,7 @@
 				<span class="material-icons">gavel</span>
 				<span class="text">10 Mais-Gebote</span>
 			</router-link>
-			<router-link to="/rekrutieren trenieren" class="button">
+			<router-link to="/rekrutieren" class="button">
 				<span class="material-icons">school</span>
 				<span class="text">Rekrutier Übungen</span>
 			</router-link>
