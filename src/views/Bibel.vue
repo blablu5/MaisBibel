@@ -54,12 +54,12 @@
 	<div id="content" class="relative p-4 max-w-2xl min-ml-xs pl-16 mx-auto">
 		<h1 class="text-white text-5xl text-center">Bibel</h1>
 		<h2 class="text-yellow-300 text-2xl">Mais</h2>
-		<p class="text-white text-lg">Jeder nicht von Zugetti-Mensch liebt Mais, Mais ist die Gottheit und das heiligste existierende Wesen.</p>
+		<p class="text-white text-lg">Jeder nicht Zugetti-Mensch liebt Mais, Mais ist die Gottheit und das heiligste existierende Wesen.</p>
 		<h2 class="text-yellow-300 text-2xl">Entstehung des Universums</h2>
 		<p class="text-white text-lg">
 		Am Anfang war primärer Mais, der prim&auml;re Mais erschuf den sekund&auml;ren Mais. Man kennt den sekund&auml;ren Mais auf der Erde auch unter dem Namen "Atom". <br></p>
 		<h2 class="text-yellow-300 text-2xl">Entdeckung des Mais-Fanclubs</h2>
-		<p class="text-white text-lg">Jesus brachte uns dieser Fanclub, mit einem heiligen Maissalat auf die Erde.<br>
+		<p class="text-white text-lg">Jesus brachte uns diesen Fanclub, mit einem heiligen Maissalat auf die Erde.<br>
 		Dieser begehrte Maissalat bestand aus:<br>
 		1. Maisdose mit Maissaft<br>
 		2. Natur Joghurt <br>

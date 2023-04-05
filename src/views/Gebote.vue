@@ -11,7 +11,7 @@
 					4. Zugetti ist nicht zu loben.<br>
 					5. Zugetti ist nur mit Hass zu essen.<br>
 					6. Die nicht existierende Hirarchie des Mais-Fanclubs ist nicht zu hinterfragen.<br>
-					7. Der Mais-Fanclub ist weder mit Sekte noch Religion zu vergleichen. So<br>
+					7. Der Mais-Fanclub ist weder mit Sekte noch Religion zu vergleichen.<br>
 					8. Die Mais-Bibel ist nicht zu hinterfragen.<br>
 					9. Alle Bedenken Fremder an dem Mais-Fanclub ist als Zugetti-Gedanken abzutun.<br>
 					10. Bei Verstoss einer der Gebote folgen Konsequenzen.</p>

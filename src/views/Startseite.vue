@@ -2,8 +2,8 @@
 	<main>
 		<div id="content" class="p-4 max-w-3xl m-auto">
 			<h1 class="text-6xl text-center break-words">Mais-Fanclub</h1>
-			<p class="mt-4 max-w-xl ml-0 mr-auto">Lerne mehr über den Mais-Fanclub. Lies die Bibel, die 10 Gebote oder treniere deine Rekrutierungsskills.</p>
-			<h2 class="max-w-xl mr-0 ml-auto text-2xl text-green-900 font-bold text-right">Neu hier? Mach dein Leben grlücklich und tritt dem Mais-Fanclub bei. Keine Verpflichtungen nur ein harmloser Fanclub</h2>
+			<p class="mt-4 max-w-xl ml-0 mr-auto">Erfahre mehr über den Mais-Fanclub, indem du entweder die Bibel und die 10 Gebote liest oder deine Fähigkeiten in der Rekrutierung trainierst.</p>
+			<h2 class="max-w-xl mr-0 ml-auto text-2xl text-green-900 font-bold text-right">Neu hier? Mach dein Leben glücklicher, indem du dem Mais-Fanclub beitrittst. Es gibt keine Verpflichtungen, es ist einfach nur ein harmloser Fanclub.</h2>
 		</div>
 		<ul class="background bg-yellow-300">
 			<li></li>

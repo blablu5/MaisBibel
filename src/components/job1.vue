@@ -49,7 +49,7 @@
       </div>
       <div  ref="resault">
         <p v-if = "finished && score === 100" class="text-white mx-5 my-5">Richtige Auswahl {{ score }} Punkte von 100 Punkte.</p>
-        <p v-else-if="finished"  class="text-white mx-5 my-5">Das war leider nicht ganz korrekt. Du hast {{ score }} Punkte von maximal 100 Punkten erreicht. Die richtige Antwort währe gewesen die oberen viel Themen ja und die unteren zwei Themen nein. Pro richtiges Thema das hinzugefügt wurde +25 und pro falsches Thema das hinzugefügt wurde -25.</p>
+        <p v-else-if="finished"  class="text-white mx-5 my-5">Das war leider nicht ganz korrekt. Du hast {{ score }} Punkte von maximal 100 Punkten erreicht. Die richtige Antwort währe gewesen die oberen vier Themen ja und die unteren zwei Themen nein. Pro richtiges Thema das hinzugefügt wurde +25 und pro falsches Thema das hinzugefügt wurde -25 Punkte.</p>
       </div>
     </div>
   </template>
