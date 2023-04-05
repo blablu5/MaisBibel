@@ -1,13 +1,11 @@
 <script setup>
 import job1 from '../components/job1.vue';
-import Job2 from '../components/job2.vue';
 </script>
 
 <script>
 export default {
   components :{
-    job1,
-    Job2
+    job1
 },
   data(){
     return{
